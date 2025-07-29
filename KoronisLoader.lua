@@ -1,3 +1,6 @@
+
+print("KoronisLoader.lua has loaded")
+
 local module = {}
 
 -- Map Roblox PlaceId to Koronis Script IDs
